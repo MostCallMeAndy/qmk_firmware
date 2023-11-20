@@ -22,7 +22,7 @@ enum layers{
   MAC_BASE,
   MAC_FN,
   WIN_BASE,
-  WIN_CLMK
+  WIN_CLMK,
   WIN_FN
 };
 
